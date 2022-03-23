@@ -5,7 +5,6 @@ Mini projeto feito por questões didáticas no curso de DSM, na matéria de Téc
 Abra o terminal, e crie as variáveis de ambiênte, no linux:
 
 ```
-
 export DBUSR="nome_de_usuario_mysql"
 export DBPASS="senha_mysql"
 
