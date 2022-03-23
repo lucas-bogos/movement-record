@@ -1,0 +1,16 @@
+menu nav {
+    padding: 1em 2em;
+    background-color: #1d1d1f;
+    color: #ccc;
+}
+
+menu nav ul li > a {
+    color: #fff;
+}
+
+menu nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

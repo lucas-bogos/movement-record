@@ -1,0 +1,21 @@
+{
+    "name": "lucas/movement-record",
+    "description": "Sistema de cadastro de movimentaçoes bancarias, construido no conteudo de tecnicas de programaçao na Fatec",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Bogos",
+            "email": "bogoslucas1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "src/"
+        }
+    }
+}
